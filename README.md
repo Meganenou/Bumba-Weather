@@ -1,4 +1,4 @@
-# Bumba-Weather
+# Bumba Weather
 ### **MOORGHEN Mégane, MOORGHEN Shéréna, POURCHER Franck et SOMME François-Xavier**
 
 _Proof of Concept - IoT et Consommation - Objets connectés à faible consommation_
