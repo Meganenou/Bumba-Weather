@@ -35,3 +35,4 @@ Dans le cadre de ce PoC, seule la fonctionnalité _Music_ est utilisée. Dans ce
 * Sur Arduino, compiler le script suivant : https://github.com/Meganenou/Bumba-Weather/blob/main/Poc_Bumba.ino
 * Sur Dabble, associez-vous à l'appareil _Bumba Weather_
 
+***Enjoy your music ~🎶***
